@@ -1,0 +1,3 @@
+---
+ansible_user: deploy
+ansible_sudo_pass: dandan"12 
